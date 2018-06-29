@@ -1,0 +1,32 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Liri is a language interpretation and recognition interface.",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravenusric/liri-node-app.git"
+  },
+  "author": "Ric Roney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravenusric/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/ravenusric/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "fs": "0.0.1-security",
+    "keys.js": "^1.0.2",
+    "liri": "^1.0.1",
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0",
+    "request": "^2.87.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
